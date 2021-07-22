@@ -24,7 +24,6 @@
             "type": "string",
             "defaultValue": "5"
         },
-		,
 		"FunctionTriggerSchedule": {
 		  "type": "string",
 		  "defaultValue": "0 */5 * * * *",
