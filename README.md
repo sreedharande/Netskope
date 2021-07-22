@@ -1,7 +1,7 @@
 # Netskope
 
 1.	Click the Deploy to Azure button below.  
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsreedharande%2FNetskope%2Fmaster%2FNetskope%2Fazuredeploy_Netskope_API_FunctionApp.json%3Ftoken%3DAFM6V37RIMZPYKUE3ZFBT33A7H5KA)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsreedharande%2FNetskope%2Fmaster%2FNetskope%2Fazuredeploy_Netskope_API_FunctionApp.json)
 
 2.	Select the preferred Subscription, Resource Group and Location.  
 
