@@ -186,7 +186,7 @@
                         "apikey": "[parameters('APIKey')]",
                         "uri": "[parameters('Uri')]",
                         "timeInterval": "[parameters('TimeInterval')]",
-						"Schedule": "[parameters('FunctionTriggerScheduleSchedule')]",
+						"Schedule": "[parameters('FunctionTriggerSchedule')]",
                         "logTypes": "[parameters('LogTypes')]",
                         "logAnalyticsUri": "[variables('LogAnaltyicsUri')]",
                         "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/Azure/Azure-Sentinel/blob/master/DataConnectors/Netskope/AzureFunctionNetskope.zip?raw=true"
